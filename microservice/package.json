@@ -15,7 +15,7 @@
   "author": "Nicolás Flores Montenegro",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "micro": "^9.3.3",
     "micro-cors": "^0.1.1"
   }
